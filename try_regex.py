@@ -1,5 +1,8 @@
 import re
 
+def foo()
+    print("Hello! This is Jong's code")
+
 def try_regex():
     expr = r"\w+"
     response = input("Give me a string: ")
